@@ -91,9 +91,9 @@ const Contact = () => {
           <br />
         </div>
         <div className="map-warp">
-          <MapContainer center={[23.8701822,90.3365305]} zoom={13}>
+          <MapContainer center={[23.875750, 90.323960]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[23.8701822,90.3365305]}>
+            <Marker position={[23.875750, 90.323960]}>
               <Popup>Hello there, come to visit ;)</Popup>
 
             </Marker>
