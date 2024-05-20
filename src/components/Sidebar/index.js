@@ -43,7 +43,7 @@ const Sidebar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.linkedin.com/in/yeasin-arafat-5a35a9250/"
+            href="https://www.linkedin.com/in/y3asin/"
           >
             <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
           </a>
@@ -57,7 +57,7 @@ const Sidebar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://discord.com/channels/@me"
+            href="https://discordapp.com/users/yeasinat"
           >
             <FontAwesomeIcon icon={faDiscord} color="#4d4d4e" />
           </a>
